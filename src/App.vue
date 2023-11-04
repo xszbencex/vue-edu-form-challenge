@@ -13,9 +13,9 @@
           <div>
             <label
               for="email-address"
-              class="block text-sm font-medium text-gray-700"
-              >Email address</label
-            >
+              class="block text-sm font-medium text-gray-700">
+              Email address
+            </label>
             <input
               id="email-address"
               name="email"
@@ -27,9 +27,7 @@
             />
           </div>
           <div>
-            <label for="name" class="block text-sm font-medium text-gray-700"
-              >Full name</label
-            >
+            <label for="name" class="block text-sm font-medium text-gray-700">Full name</label>
             <input
               id="name"
               name="name"
@@ -43,9 +41,9 @@
           <div>
             <label
               for="password"
-              class="block text-sm font-medium text-gray-700"
-              >Password</label
-            >
+              class="block text-sm font-medium text-gray-700">
+              Password
+            </label>
             <input
               id="password"
               name="password"
@@ -59,9 +57,9 @@
           <div>
             <label
               for="password-again"
-              class="block text-sm font-medium text-gray-700"
-              >Password again</label
-            >
+              class="block text-sm font-medium text-gray-700">
+              Password again
+            </label>
             <input
               id="password-again"
               name="password-again"
