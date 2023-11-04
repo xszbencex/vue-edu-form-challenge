@@ -8,7 +8,7 @@
           Sign up for an account
         </h2>
       </div>
-      <form class="mt-8 space-y-6" action="#" method="POST">
+      <form class="mt-8 space-y-6">
         <div class="flex flex-col space-y-3 rounded-md shadow-sm -space-y-px">
           <div>
             <label
