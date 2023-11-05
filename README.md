@@ -1,4 +1,5 @@
 # Form challenge
+
 A feladat megoldásához szükséges kritériumok:
 
 - A form összes mezője legyen kötelező.
@@ -12,9 +13,10 @@ A feladat megoldásához szükséges kritériumok:
 
 Első körben nem szükséges külső library-t használni hozzá (pl: Vuelidate).
 
-A következő két koncepció hasznos lesz a feladat megoldása során:
+A következő koncepciók hasznosak lesznek a feladat megoldása során:
 - [Computed](https://vuejs.org/guide/essentials/computed.html)
 - [Class Bindings](https://vuejs.org/guide/essentials/class-and-style.html)
+- [Reactive](https://vuejs.org/api/reactivity-core.html#reactive)
 
 
 To start this project you need to run:
