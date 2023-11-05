@@ -18,6 +18,9 @@ A következő koncepciók hasznosak lesznek a feladat megoldása során:
 - [Class Bindings](https://vuejs.org/guide/essentials/class-and-style.html)
 - [Reactive](https://vuejs.org/api/reactivity-core.html#reactive)
 
+A kész, működő alkalmazást itt tudjátok megnézni:
+https://vue-edu-form-challenge-solution.vercel.app/
+
 
 To start this project you need to run:
 
